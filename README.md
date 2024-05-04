@@ -3,6 +3,10 @@
 ## Overview
 This application utilizes machine learning models to process and analyze PDF documents. It features data ingestion, text splitting, embeddings generation, and a question-answering system, built using the LangChain library and AWS services.
 
+## Video Demonstration
+For a live demonstration of the application, check out this video on LinkedIn:
+[Watch the Video](https://www.linkedin.com/feed/update/urn:li:ugcPost:7177989540987498499)
+
 ## Features
 - **Data Ingestion**: Automatically loads PDF documents from a specified directory for processing.
 - **Text Splitting**: Splits text from PDF documents into manageable chunks for better processing using the Recursive Character Text Splitter.
@@ -34,4 +38,6 @@ Contributions are welcome. Please fork the repository, make your changes, and su
 
 ## License
 MIT License
+
+
 
