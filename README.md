@@ -1,4 +1,4 @@
-# Application Documentation
+# Application Documentation QA RAG App Using AWS
 
 ## Overview
 This application utilizes machine learning models to process and analyze PDF documents. It features data ingestion, text splitting, embeddings generation, and a question-answering system, built using the LangChain library and AWS services.
