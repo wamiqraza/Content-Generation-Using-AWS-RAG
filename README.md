@@ -22,7 +22,7 @@ For a live demonstration of the application, check out this video on LinkedIn:
 
 ## Setup and Installation
 1. Ensure Python 3.x is installed on your system.
-2. Install required libraries using `pip install -r requirements.txt` (ensure you create this file based on the libraries used in the script).
+2. Install required libraries using `pip install -r requirements.txt` (ensure you create this file based on the libraries used in the script) you can create `env` if you prefer.
 3. Configure AWS credentials to use Boto3.
 4. Check `app.py` and fill the potion with `Needed` which are model id, can be choose from AWS.
 5. Run the application by executing `streamlit run app.py` in your terminal.

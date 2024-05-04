@@ -1,6 +1,0 @@
-conda activate base
-conda deactivate
-conda activate D:\AWS_bedrock\venv
-
-
-streamlit run app.py
